@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">AUDIO PROFILE MANAGER 2.0</string>
+    <string name="app_name">AUDIO PROFILE MANAGER</string>
+    <string name="start">Start Sensor</string>
+    <string name="stop">Stop Sensor</string>
+
+</resources>
